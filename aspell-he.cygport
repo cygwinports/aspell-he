@@ -3,12 +3,10 @@ inherit aspell-dict
 
 NAME="aspell-he"
 VERSION=1.0.0
-RELEASE=1
+RELEASE=2
 CATEGORY="Text"
 SUMMARY="Aspell Hebrew dictionaries"
 DESCRIPTION="GNU Aspell is a Free and Open Source spell checker designed to
 eventually replace Ispell. It can either be used as a library or as an
 independent spell checker.
 This package provides English dictionaries for Aspell."
-
-ARCH=noarch
